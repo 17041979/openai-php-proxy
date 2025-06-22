@@ -1,6 +1,1 @@
-cd path/to/openai-php-proxy
-git init
-git add .
-git commit -m "Initial commit with OpenAI proxy"
-git remote add origin https://github.com/17041979/openai-php-proxy.git
-git push -u origin main
+
